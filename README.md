@@ -150,7 +150,7 @@ end
 * Rack [rack-secure_headers](https://github.com/frodsan/rack-secure_headers)
 * Node.js (express) [helmet](https://github.com/helmetjs/helmet) and [hood](https://github.com/seanmonstar/hood)
 * Node.js (hapi) [blankie](https://github.com/nlf/blankie)
-* J2EE Servlet >= 3.0 [headlines](https://github.com/sourceclear/headlines)
+* J2EE Servlet >= 3.0 [headlines](https://github.com/stevespringett/headlines)
 * ASP.NET - [NWebsec](https://github.com/NWebsec/NWebsec/wiki)
 * Python - [django-csp](https://github.com/mozilla/django-csp) + [commonware](https://github.com/jsocol/commonware/); [django-security](https://github.com/sdelements/django-security)
 * Go - [secureheader](https://github.com/kr/secureheader)
